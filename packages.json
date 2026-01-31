@@ -7,7 +7,17 @@
             "description_full": "Generates a Component Position CSV file with DNP support and Natural Sorting.",
             "identifier": "vn.thanhduongvs.component-position-exporter",
             "type": "plugin",
+            "runtime": {
+                "type": "python",
+                "min_version": "3.9"
+            },
             "author": {
+                "name": "Thanh Duong",
+                "contact": {
+                    "web": "https://github.com/thanhduongvs"
+                }
+            },
+            "maintainer": {
                 "name": "Thanh Duong",
                 "contact": {
                     "web": "https://github.com/thanhduongvs"
@@ -17,15 +27,31 @@
             "resources": {
                 "homepage": "https://github.com/thanhduongvs/kicad-component-position"
             },
+            "actions": [
+                {
+                    "identifier": "component-position-exporter",
+                    "name": "Component Position Exporter",
+                    "description": "Generates a Component Position CSV file",
+                    "show-button": true,
+                    "scopes": [
+                        "pcb"
+                    ],
+                    "entrypoint": "plugins/main.py",
+                    "icons-light": [
+                        "plugins/icon.png"
+                    ]
+                }
+            ],
             "versions": [
                 {
                     "version": "1.0.0",
                     "status": "stable",
                     "kicad_version": "9.0",
-                    "download_sha256": "570890d5800c06e3e6fb3c5d9d4a9a17bded2b21e1eaed974033143f3d98e170",
-                    "download_size": 10842,
+                    "runtime": "ipc",
+                    "download_sha256": "aff5372a58724665b8081191dadd8a6302569dda7013f9a4413345645057e173",
+                    "download_size": 10965,
                     "download_url": "https://raw.githubusercontent.com/thanhduongvs/kicad-component-position/main/release/component-position-1.0.0.zip",
-                    "install_size": 61825,
+                    "install_size": 62515,
                     "platforms": [
                         "linux",
                         "windows"
