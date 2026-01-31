@@ -1,0 +1,22 @@
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+    "maintainer": {
+        "contact": {
+            "twitter": "@thanhduongvs"
+        },
+        "name": "OneKiwi"
+    },
+    "name": "OneKiwi's KiCad repository",
+    "packages": {
+        "sha256": "12e0e4183302d3ca11ee477be9e8cd33e454dd283565d558292c1c65d2ec3318",
+        "update_time_utc": "2025-05-26 21:31:42",
+        "update_timestamp": 1748269902,
+        "url": "https://raw.githubusercontent.com/thanhduongvs/kicad-repository/main/packages.json"
+    },
+    "resources": {
+        "sha256": "23b0b54eee3a698746079ca9d8dc9f465f17628f42e34c36486a248cd5376f8f",
+        "update_time_utc": "2024-03-14 20:26:30",
+        "update_timestamp": 1710422790,
+        "url": "https://github.com/thanhduongvs/kicad-repository/raw/main/resources.zip"
+    }
+}
