@@ -2,62 +2,32 @@
     "packages": [
         {
             "$schema": "https://go.kicad.org/pcm/schemas/v1",
-            "name": "Fanout Tool",
-            "description": "BGA Fanout",
-            "description_full": "BGA fanout routing",
-            "identifier": "vn.onekiwi.fanout-tool",
+            "name": "Component Position Exporter",
+            "description": "Generates a Component Position CSV file",
+            "description_full": "Generates a Component Position CSV file with DNP support and Natural Sorting.",
+            "identifier": "vn.thanhduongvs.component-position-exporter",
             "type": "plugin",
             "author": {
-                "name": "OneKiwi",
+                "name": "Thanh Duong",
                 "contact": {
-                    "web": "https://github.com/OneKiwiTech"
+                    "web": "https://github.com/thanhduongvs"
                 }
             },
             "license": "MIT",
             "resources": {
-                "homepage": "https://github.com/OneKiwiTech/kicad-fanout-tool",
-                "demo": "https://www.youtube.com/watch?v=-J81S3inhoc"
+                "homepage": "https://github.com/thanhduongvs/kicad-component-position"
             },
             "versions": [
                 {
-                    "version": "1.1.0",
-                    "status": "stable",
-                    "kicad_version": "7.0",
-                    "download_sha256": "48e2b789a6339f1bb22e0ebe645b91dae75422592911ccfce2d332ff6ad52e68",
-                    "download_size": 118925,
-                    "download_url": "https://github.com/OneKiwiTech/kicad-fanout-tool/releases/download/1.1.0/fanout-tool-1.1.0.zip",
-                    "install_size": 339303,
-                    "platforms": [
-                        "linux",
-                        "macos",
-                        "windows"
-                    ]
-                },
-                {
-                    "version": "1.1.1",
-                    "status": "stable",
-                    "kicad_version": "8.0",
-                    "download_sha256": "995c1bef2a095e54c87c7d48851f670be9cb43c68a619bd286cc61b4d0c81fc6",
-                    "download_size": 119927,
-                    "download_url": "https://github.com/OneKiwiTech/kicad-fanout-tool/releases/download/1.1.1/fanout-tool-1.1.1.zip",
-                    "install_size": 338367,
-                    "platforms": [
-                        "linux",
-                        "macos",
-                        "windows"
-                    ]
-                },
-                {
-                    "version": "1.1.3",
+                    "version": "v1.0",
                     "status": "stable",
                     "kicad_version": "9.0",
-                    "download_sha256": "e1cc8a675ac33e0142602758e301c9cbc1e54a421b30630879611e7b2ebb8d78",
-                    "download_size": 122663,
-                    "download_url": "https://github.com/OneKiwiTech/kicad-fanout-tool/releases/download/1.1.3/fanout-tool-1.1.3.zip",
-                    "install_size": 346241,
+                    "download_sha256": "48c435375a86179cf008e918dfd8c56f6257178c1287b0401289c365f6ecf3ca",
+                    "download_size": 13632,
+                    "download_url": "https://raw.githubusercontent.com/thanhduongvs/kicad-component-position/refs/heads/main/release/component-position-v1.0.zip",
+                    "install_size": 71704,
                     "platforms": [
                         "linux",
-                        "macos",
                         "windows"
                     ]
                 }
