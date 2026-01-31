@@ -14,9 +14,9 @@
         "url": "https://raw.githubusercontent.com/thanhduongvs/kicad-repository/main/packages.json"
     },
     "resources": {
-        "sha256": "23b0b54eee3a698746079ca9d8dc9f465f17628f42e34c36486a248cd5376f8f",
-        "update_time_utc": "2024-03-14 20:26:30",
-        "update_timestamp": 1710422790,
+        "sha256": "4837341ddc16561dccb9a60a7355184450c8f670edd530f19611d91c2868e72a",
+        "update_time_utc": "2026-01-31 15:25:37",
+        "update_timestamp": 1769847937,
         "url": "https://github.com/thanhduongvs/kicad-repository/raw/main/resources.zip"
     }
 }
