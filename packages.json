@@ -19,13 +19,13 @@
             },
             "versions": [
                 {
-                    "version": "v1.0",
+                    "version": "1.0.0",
                     "status": "stable",
                     "kicad_version": "9.0",
-                    "download_sha256": "48c435375a86179cf008e918dfd8c56f6257178c1287b0401289c365f6ecf3ca",
-                    "download_size": 13632,
-                    "download_url": "https://raw.githubusercontent.com/thanhduongvs/kicad-component-position/refs/heads/main/release/component-position-v1.0.zip",
-                    "install_size": 71704,
+                    "download_sha256": "958d8cfc875fa36cde8a9a4a01b9b8f0e188554321de362cfdc9662f24b83bed",
+                    "download_size": 13635,
+                    "download_url": "https://raw.githubusercontent.com/thanhduongvs/kicad-component-position/main/release/component-position-1.0.0.zip",
+                    "install_size": 71706,
                     "platforms": [
                         "linux",
                         "windows"
