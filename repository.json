@@ -8,9 +8,9 @@
     },
     "name": "OneKiwi's KiCad repository",
     "packages": {
-        "sha256": "6948e9b4b4ebf46eda4512c4403b795639508db6ab23aa153ef51272b4febe5f",
-        "update_time_utc": "2026-01-31 15:32:03",
-        "update_timestamp": 1769848323,
+        "sha256": "aa5a429a6092db9cbaacaedd506669dd272f6e2dcb77180d8bfae28b16434794",
+        "update_time_utc": "2026-01-31 15:40:46",
+        "update_timestamp": 1769848846,
         "url": "https://raw.githubusercontent.com/thanhduongvs/kicad-repository/main/packages.json"
     },
     "resources": {
