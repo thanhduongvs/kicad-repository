@@ -22,10 +22,10 @@
                     "version": "1.0.0",
                     "status": "stable",
                     "kicad_version": "9.0",
-                    "download_sha256": "958d8cfc875fa36cde8a9a4a01b9b8f0e188554321de362cfdc9662f24b83bed",
-                    "download_size": 13635,
+                    "download_sha256": "570890d5800c06e3e6fb3c5d9d4a9a17bded2b21e1eaed974033143f3d98e170",
+                    "download_size": 10842,
                     "download_url": "https://raw.githubusercontent.com/thanhduongvs/kicad-component-position/main/release/component-position-1.0.0.zip",
-                    "install_size": 71706,
+                    "install_size": 61825,
                     "platforms": [
                         "linux",
                         "windows"
