@@ -1,4 +1,4 @@
-# OneKiwi's KiCad Addon Package Repository
+# Thanh Duong's KiCad Addon Package Repository
 
 ## Installation 💾
 
