@@ -27,10 +27,10 @@
                     "status": "stable",
                     "kicad_version": "9.0",
                     "runtime": "ipc",
-                    "download_sha256": "52b40ebf0a75503252d46f6c20b31f6995b6a42aa6737fe506a64ca8b5db7d04",
-                    "download_size": 8478,
+                    "download_sha256": "df2966496bd86bbb7351f9b6a21665f4ff551f6541492698d5a3fecb8f40543b",
+                    "download_size": 12639,
                     "download_url": "https://raw.githubusercontent.com/thanhduongvs/kicad-component-position/main/pcm/component-position-exporter-1.0.0.zip",
-                    "install_size": 18252,
+                    "install_size": 28784,
                     "platforms": [
                         "linux",
                         "windows"
