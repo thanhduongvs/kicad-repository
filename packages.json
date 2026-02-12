@@ -75,6 +75,44 @@
                     ]
                 }
             ]
+        },
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "name": "Text Label Generator",
+            "description": "Advanced PCB text label and icon generator with TrueType font support.",
+            "description_full": "A powerful tool to create high-quality text labels and icons for KiCad PCBs. Features include:\n\n- **TrueType Font Support**: Use any TTF/OTF font for text labels.\n- **Symbol/Icon Picker**: Integrated browser for symbol fonts (FontAwesome, etc.).\n- **Rich Text Support**: Mix multiple fonts in a single label using tags.\n- **Negative Rendering**: Create inverted text (copper/mask cutouts) automatically.\n- **Custom Borders**: Square, Round, Hexagon, Ribbon, and more.\n- **Live Preview**: Real-time rendering with zoom and pan.\n- **Direct Export**: Copy directly to clipboard or save as .kicad_mod footprint.",
+            "identifier": "vn.thanhduongvs.text-label",
+            "type": "plugin",
+            "runtime": {
+                "type": "python",
+                "min_version": "3.10"
+            },
+            "author": {
+                "name": "Thanh Duong",
+                "contact": {
+                    "github": "https://github.com/thanhduongvs"
+                }
+            },
+            "license": "MIT",
+            "resources": {
+                "homepage": "https://github.com/thanhduongvs/kicad-text-label"
+            },
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "status": "stable",
+                    "kicad_version": "9.0",
+                    "runtime": "ipc",
+                    "download_sha256": "fec81814e0055cd04873ada3d185d8d1b58a60809d913649ab64487f0094f6b0",
+                    "download_size": 5281174,
+                    "download_url": "https://raw.githubusercontent.com/thanhduongvs/kicad-text-label/main/pcm/text-label-1.0.0.zip",
+                    "install_size": 9590243,
+                    "platforms": [
+                        "linux",
+                        "windows"
+                    ]
+                }
+            ]
         }
     ]
 }
