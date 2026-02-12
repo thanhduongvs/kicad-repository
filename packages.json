@@ -5,7 +5,7 @@
             "name": "Component Position Exporter",
             "description": "Generates a Component Position CSV file",
             "description_full": "Generates a Component Position CSV file with DNP support and Natural Sorting.",
-            "identifier": "vn.thanhduongvs.component-position-exporter",
+            "identifier": "vn.thanhduongvs.component-position",
             "type": "plugin",
             "runtime": {
                 "type": "python",
@@ -27,10 +27,48 @@
                     "status": "stable",
                     "kicad_version": "9.0",
                     "runtime": "ipc",
-                    "download_sha256": "df2966496bd86bbb7351f9b6a21665f4ff551f6541492698d5a3fecb8f40543b",
-                    "download_size": 12639,
-                    "download_url": "https://raw.githubusercontent.com/thanhduongvs/kicad-component-position/main/pcm/component-position-exporter-1.0.0.zip",
-                    "install_size": 28784,
+                    "download_sha256": "c14e51e6c09716251153c38ac516e3cff08d139f6eb2bb1d90ed391ac4efebbb",
+                    "download_size": 12632,
+                    "download_url": "https://raw.githubusercontent.com/thanhduongvs/kicad-component-position/main/pcm/component-position-1.0.0.zip",
+                    "install_size": 28755,
+                    "platforms": [
+                        "linux",
+                        "windows"
+                    ]
+                }
+            ]
+        },
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "name": "Artistic QR Code Generator",
+            "description": "Generate artistic, vector-based QR codes for PCBs with custom shapes, liquid styles, and logo embedding",
+            "description_full": "Generate artistic, vector-based QR codes for PCBs with custom shapes, liquid styles, and logo embedding",
+            "identifier": "vn.thanhduongvs.artistic-qrcode",
+            "type": "plugin",
+            "runtime": {
+                "type": "python",
+                "min_version": "3.10"
+            },
+            "author": {
+                "name": "Thanh Duong",
+                "contact": {
+                    "github": "https://github.com/thanhduongvs"
+                }
+            },
+            "license": "MIT",
+            "resources": {
+                "homepage": "https://github.com/thanhduongvs/kicad-artistic-qrcode"
+            },
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "status": "stable",
+                    "kicad_version": "9.0",
+                    "runtime": "ipc",
+                    "download_sha256": "6bfdf0b1e9f7f129d5353232e03f73da5b664e81e54872258651da140e2f5fa4",
+                    "download_size": 17641,
+                    "download_url": "https://raw.githubusercontent.com/thanhduongvs/kicad-artistic-qrcode/main/pcm/artistic-qrcode-1.0.0.zip",
+                    "install_size": 65525,
                     "platforms": [
                         "linux",
                         "windows"
