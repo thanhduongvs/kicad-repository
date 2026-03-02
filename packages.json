@@ -103,10 +103,10 @@
                     "status": "stable",
                     "kicad_version": "9.0",
                     "runtime": "ipc",
-                    "download_sha256": "087c84720b5b211d132ea1f0cc29251229880c527040c58465996a76897b00d0",
-                    "download_size": 77239,
+                    "download_sha256": "e2c9075e49bf76268701ec25639bfc2d52787f2d2334da8a75a40987672dab35",
+                    "download_size": 76401,
                     "download_url": "https://raw.githubusercontent.com/thanhduongvs/kicad-fanout-tool/main/pcm/fanout-tool-1.0.0.zip",
-                    "install_size": 308197,
+                    "install_size": 307725,
                     "platforms": [
                         "linux",
                         "windows"
