@@ -8,15 +8,15 @@
     },
     "name": "Thanh Duong's KiCad repository",
     "packages": {
-        "sha256": "0419bd84a1c5be744f48499a3a7c4f6f9dd11d5370be5004aade6d121154e5ff",
-        "update_time_utc": "2026-02-12 19:52:28",
-        "update_timestamp": 1770900748,
+        "sha256": "4a36b209da4201876aecddca06050b9e012c3d13f60bb4050f27ba0ab8ccd820",
+        "update_time_utc": "2026-03-02 15:12:51",
+        "update_timestamp": 1772439171,
         "url": "https://raw.githubusercontent.com/thanhduongvs/kicad-repository/main/packages.json"
     },
     "resources": {
-        "sha256": "0905eb11f031af14b7b7d5a6339f4d52b6c392efb9bd8c12c8e8e7933ccd494d",
-        "update_time_utc": "2026-02-12 19:51:28",
-        "update_timestamp": 1770900688,
+        "sha256": "6133eaa82f6a30be1ac2b7cfcfce4a64b54baad30cd4be376065271a334c50cc",
+        "update_time_utc": "2026-03-02 15:11:43",
+        "update_timestamp": 1772439103,
         "url": "https://github.com/thanhduongvs/kicad-repository/raw/main/resources.zip"
     }
 }
