@@ -29,7 +29,7 @@
                     "runtime": "ipc",
                     "download_sha256": "575ba5c43a371b54a1450adb5f5983dfa6c2fd542190a4cae9e3662f669cc010",
                     "download_size": 13649,
-                    "download_url": "https://raw.githubusercontent.com/thanhduongvs/kicad-component-position/releases/component-position-1.0.0.zip",
+                    "download_url": "https://raw.githubusercontent.com/thanhduongvs/kicad-component-position/main/releases/component-position-1.0.0.zip",
                     "install_size": 35090,
                     "platforms": [
                         "linux",
