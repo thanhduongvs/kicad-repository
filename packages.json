@@ -78,12 +78,12 @@
                 {
                     "version": "1.0.0",
                     "status": "stable",
-                    "kicad_version": "9.0",
+                    "kicad_version": "10.0",
                     "runtime": "ipc",
-                    "download_sha256": "6bfdf0b1e9f7f129d5353232e03f73da5b664e81e54872258651da140e2f5fa4",
-                    "download_size": 17641,
-                    "download_url": "https://raw.githubusercontent.com/thanhduongvs/kicad-artistic-qrcode/main/pcm/artistic-qrcode-1.0.0.zip",
-                    "install_size": 65525,
+                    "download_sha256": "d2e015baf1891761de1600e9fe56cfc9f708ff5ddb8289eface5da52077fa81b",
+                    "download_size": 17704,
+                    "download_url": "https://raw.githubusercontent.com/thanhduongvs/kicad-artistic-qrcode/main/releases/artistic-qrcode-1.0.0.zip",
+                    "install_size": 65873,
                     "platforms": [
                         "linux",
                         "windows"

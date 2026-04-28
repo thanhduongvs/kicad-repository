@@ -8,9 +8,9 @@
     },
     "name": "Thanh Duong's KiCad repository",
     "packages": {
-        "sha256": "ef5be7ef9caaf3351b39e7ad8cd6c81725721d82ceb817a6603afd49994414d3",
-        "update_time_utc": "2026-04-28 13:44:34",
-        "update_timestamp": 1777358674,
+        "sha256": "f8895ac3dcbd4444d2e72fcaabd51e3b7020fdd6d28cf19cc5ce553cffbc17da",
+        "update_time_utc": "2026-04-28 14:00:54",
+        "update_timestamp": 1777359654,
         "url": "https://raw.githubusercontent.com/thanhduongvs/kicad-repository/main/packages.json"
     },
     "resources": {
