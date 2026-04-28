@@ -25,18 +25,33 @@
                 {
                     "version": "1.0.0",
                     "status": "stable",
-                    "kicad_version": "9.0",
+                    "kicad_version": "10.0",
                     "runtime": "ipc",
-                    "download_sha256": "c14e51e6c09716251153c38ac516e3cff08d139f6eb2bb1d90ed391ac4efebbb",
-                    "download_size": 12632,
-                    "download_url": "https://raw.githubusercontent.com/thanhduongvs/kicad-component-position/main/pcm/component-position-1.0.0.zip",
-                    "install_size": 28755,
+                    "download_sha256": "575ba5c43a371b54a1450adb5f5983dfa6c2fd542190a4cae9e3662f669cc010",
+                    "download_size": 13649,
+                    "download_url": "https://raw.githubusercontent.com/thanhduongvs/kicad-component-position/releases/pcm/component-position-1.0.0.zip",
+                    "install_size": 35090,
+                    "platforms": [
+                        "linux",
+                        "windows"
+                    ]
+                },
+                {
+                    "version": "1.0.1",
+                    "status": "stable",
+                    "kicad_version": "10.0",
+                    "runtime": "ipc",
+                    "download_sha256": "9cbd23817543330a16c0d9eeebb1a448cbc4552e05218a8530984d448f9488ed",
+                    "download_size": 14705,
+                    "download_url": "https://raw.githubusercontent.com/thanhduongvs/kicad-component-position/main/releases/component-position-1.0.1.zip",
+                    "install_size": 41775,
                     "platforms": [
                         "linux",
                         "windows"
                     ]
                 }
             ]
+
         },
         {
             "$schema": "https://go.kicad.org/pcm/schemas/v1",
