@@ -41,10 +41,10 @@
                     "status": "stable",
                     "kicad_version": "10.0",
                     "runtime": "ipc",
-                    "download_sha256": "9cbd23817543330a16c0d9eeebb1a448cbc4552e05218a8530984d448f9488ed",
-                    "download_size": 14705,
+                    "download_sha256": "6fee93b3735863b0cd53aaadd1a9455e24532c725cd1a8446db5c493221675a0",
+                    "download_size": 14850,
                     "download_url": "https://raw.githubusercontent.com/thanhduongvs/kicad-component-position/main/releases/component-position-1.0.1.zip",
-                    "install_size": 41775,
+                    "install_size": 43149,
                     "platforms": [
                         "linux",
                         "windows"
